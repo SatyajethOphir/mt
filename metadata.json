@@ -1,0 +1,6 @@
+{
+  "name": "Goal Tracker & Countdown",
+  "description": "A dark-themed personal goal tracker featuring a teen financial milestone progress bar and a live birthday countdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
